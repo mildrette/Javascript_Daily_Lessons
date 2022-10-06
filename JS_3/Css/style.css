@@ -1,0 +1,10 @@
+*{
+    box-sizing: border-box;
+    background-color: lightcyan;
+}
+
+body{
+    text-align: center;
+    text-decoration: underline;
+}
+
